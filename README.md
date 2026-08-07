@@ -3,12 +3,12 @@
 # MyHub Dev Pipeline 🚀
 
 [![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-6c63ff?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DavidLinacre)
-[![CI](https://github.com/LIN4CRE/myhub-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/LIN4CRE/myhub-pipeline/actions/workflows/ci.yml)
-[![Version](https://img.shields.io/badge/version-v1.2.0-6c63ff?style=flat)](https://github.com/LIN4CRE/myhub-pipeline/releases)
-[![Health](https://img.shields.io/badge/health-100%25-17b26a?style=flat)](https://github.com/LIN4CRE/myhub-pipeline)
+[![CI](https://github.com/DLinacre/myhub-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/DLinacre/myhub-pipeline/actions/workflows/ci.yml)
+[![Version](https://img.shields.io/badge/version-v1.2.0-6c63ff?style=flat)](https://github.com/DLinacre/myhub-pipeline/releases)
+[![Health](https://img.shields.io/badge/health-100%25-17b26a?style=flat)](https://github.com/DLinacre/myhub-pipeline)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat)](LICENSE)
-[![Deploy Freq](https://img.shields.io/badge/Deploy__Freq-0.23%2Fwk-ffd400?style=flat&colorA=1D1D20)](https://github.com/LIN4CRE/myhub-pipeline/blob/main/ARCHITECTURE.md)
-[![Failure Risk](https://img.shields.io/badge/Failure__Risk-0%25-8DE5A1?style=flat&colorA=1D1D20)](https://github.com/LIN4CRE/myhub-pipeline/blob/main/pipeline_history.json)
+[![Deploy Freq](https://img.shields.io/badge/Deploy__Freq-0.23%2Fwk-ffd400?style=flat&colorA=1D1D20)](https://github.com/DLinacre/myhub-pipeline/blob/main/ARCHITECTURE.md)
+[![Failure Risk](https://img.shields.io/badge/Failure__Risk-0%25-8DE5A1?style=flat&colorA=1D1D20)](https://github.com/DLinacre/myhub-pipeline/blob/main/pipeline_history.json)
 [![YouTube](https://img.shields.io/badge/YouTube-@DavidLinacre-ff0000?style=flat&logo=youtube)](https://www.youtube.com/@DavidLinacre)
 
 > **Fully automated SDLC pipeline** — CI/CD, code quality, security scanning, AI auto-fix,
@@ -27,7 +27,7 @@
 | 📋 Demo Script (9 scenes, 60s) | [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md) |
 | 🎥 YouTube Channel | [@DavidLinacre](https://www.youtube.com/@DavidLinacre) |
 | 📐 Architecture Diagram | [ARCHITECTURE.md](ARCHITECTURE.md) |
-| 📦 Golden Release v1.2.0 | [Releases](https://github.com/LIN4CRE/myhub-pipeline/releases) |
+| 📦 Golden Release v1.2.0 | [Releases](https://github.com/DLinacre/myhub-pipeline/releases) |
 
 ---
 
@@ -107,12 +107,12 @@ gh workflow run ci.yml --repo LIN4CRE/myhub-pipeline
 
 | Resource | URL |
 |----------|-----|
-| 📦 Repo | https://github.com/LIN4CRE/myhub-pipeline |
+| 📦 Repo | https://github.com/DLinacre/myhub-pipeline |
 | 🎥 YouTube | https://www.youtube.com/@DavidLinacre |
-| 📋 Docs | https://github.com/LIN4CRE/myhub-pipeline/tree/main/docs |
-| 🏗 Architecture | https://github.com/LIN4CRE/myhub-pipeline/blob/main/ARCHITECTURE.md |
-| 📝 CHANGELOG | https://github.com/LIN4CRE/myhub-pipeline/blob/main/CHANGELOG.md |
-| 🚀 Releases | https://github.com/LIN4CRE/myhub-pipeline/releases |
+| 📋 Docs | https://github.com/DLinacre/myhub-pipeline/tree/main/docs |
+| 🏗 Architecture | https://github.com/DLinacre/myhub-pipeline/blob/main/ARCHITECTURE.md |
+| 📝 CHANGELOG | https://github.com/DLinacre/myhub-pipeline/blob/main/CHANGELOG.md |
+| 🚀 Releases | https://github.com/DLinacre/myhub-pipeline/releases |
 
 ---
 

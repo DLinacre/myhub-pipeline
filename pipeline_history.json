@@ -5,7 +5,7 @@
     "all_systems_ok": true,
     "ci_status": "success",
     "ci_duration_s": 19,
-    "ci_url": "https://github.com/LIN4CRE/myhub-pipeline/actions/runs/27880320799",
+    "ci_url": "https://github.com/DLinacre/myhub-pipeline/actions/runs/27880320799",
     "tests_ran": 9,
     "tests_passed": 9,
     "tests_failed": 0,

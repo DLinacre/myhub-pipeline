@@ -23,8 +23,8 @@ I built a production-grade DevOps pipeline that handles CI/CD, security scanning
 AI-powered PR review, DORA metrics, anomaly detection, and predictive failure analysis
 — all from a single Python script.
 
-🔗 GitHub: https://github.com/LIN4CRE/myhub-pipeline
-📐 Architecture: https://github.com/LIN4CRE/myhub-pipeline/blob/main/ARCHITECTURE.md
+🔗 GitHub: https://github.com/DLinacre/myhub-pipeline
+📐 Architecture: https://github.com/DLinacre/myhub-pipeline/blob/main/ARCHITECTURE.md
 
 What's in this demo:
 0:00   Hook — 44 blocks, zero manual steps
@@ -77,7 +77,7 @@ It handles:
 
 All 44 blocks run from a single Python file. Zero manual steps after initial setup.
 
-Full source: https://github.com/LIN4CRE/myhub-pipeline
+Full source: https://github.com/DLinacre/myhub-pipeline
 Demo video: https://www.youtube.com/@DavidLinacre
 
 Built by a self-taught dev. Open to feedback.
@@ -96,7 +96,7 @@ Show HN: I built a 49-block automated DevOps pipeline – open source
 
 ### URL:
 ```
-https://github.com/LIN4CRE/myhub-pipeline
+https://github.com/DLinacre/myhub-pipeline
 ```
 
 ---
